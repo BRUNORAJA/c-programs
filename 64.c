@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<conio.h>
  
-void main()
+int  main()
 {
     int array[100], i, num;
     clrscr();
@@ -29,5 +29,5 @@ void main()
             printf("%d \t", array[i]);
         }
     }
-    getch();
+    return 0;
 }
