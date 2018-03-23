@@ -1,6 +1,6 @@
-#include <stdio.h>
+   #include <stdio.h>    
 
-int main()
+   int main()
 {
 
 	char str[50];
@@ -21,6 +21,6 @@ int main()
     
 	}
 
-	return 0;
+	   return 0;
   
 }
